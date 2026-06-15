@@ -14,6 +14,10 @@ I am a Computer Science major @ Penn State University
 
 ## Projects
 
-### Unreal Engine 5 Racing Game
+<h3 align="center">Unreal Engine 5 Racing Game</h3>
 
-[![Unreal Engine 5 Racing Game](https://img.youtube.com/vi/gL0wMgB4xxM/maxresdefault.jpg)](https://youtu.be/gL0wMgB4xxM)
+<p align="center">
+  <a href="https://youtu.be/gL0wMgB4xxM">
+    <img src="https://img.youtube.com/vi/gL0wMgB4xxM/maxresdefault.jpg" width="450" alt="Unreal Engine 5 Racing Game">
+  </a>
+</p>
