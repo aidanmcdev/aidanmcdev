@@ -18,6 +18,6 @@ I am a Computer Science major @ Penn State University
 
 <p align="center">
   <a href="https://youtu.be/gL0wMgB4xxM">
-    <img src="https://img.youtube.com/vi/gL0wMgB4xxM/maxresdefault.jpg" width="450" alt="Unreal Engine 5 Racing Game">
+    <img src="https://img.youtube.com/vi/gL0wMgB4xxM/maxresdefault.jpg" width="700" alt="Unreal Engine 5 Racing Game">
   </a>
 </p>
